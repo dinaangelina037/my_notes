@@ -1,0 +1,38 @@
+/* normal flow */
+/* .container{ */
+    /* width: 600px; */
+    /* border: 1 px solid black; */
+    /* margin: auto; */
+    /* padding: 5px ; */
+
+/* } */
+/* .satu.dua.tiga{ */
+    /* width: 100px; */
+    /* height: 100px; */
+/* } */
+/* .satu{ */
+    /* background-color: salmon; */
+/* } */
+/* .dua{ */
+    /* background-color: lightgreen; */
+    /* autoflow */
+    /* float: left; */
+    /* margin: right; */
+/* } */
+/* .tiga{ */
+    /* background-color: lightskyblue; */
+/* } */
+
+.container{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black ;
+    margin: auto;
+    padding: 200px;
+    overflow: auto;
+}
+
+img{
+    float: right;
+    margin: 5px;
+}
